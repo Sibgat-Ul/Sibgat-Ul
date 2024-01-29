@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 - 👋 Hi, I’m @Sibgat-Ul
-- 👀 I’m interested in computer, os design, and a linux enthousiast 
-- 🌱 I’m currently learning vue, and looking forward to learn postgresql or faunaDB.
+- 👀 I’m interested in computer, os design, and a linux enthusiast
+- 🌱 lazy as always.
 
 
 ## 🌐 Socials:
