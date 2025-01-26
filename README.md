@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 # About Me:
 - Student, love to explore techs
 - **LINUX ALL THE WAY**
-- Would love to take one step at a time
 
 # I know:
 - Javascript
